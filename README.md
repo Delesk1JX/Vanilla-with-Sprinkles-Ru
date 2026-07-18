@@ -1,6 +1,6 @@
 # Vanilla-with-Sprinkles-Ru
 
-Информация: Перевод достижений в датапаке Vanilla with Sprinkles. Ссылка на [датапак](https://www.curseforge.com/minecraft/customization/vanilla-with-sprinkles)
+Информация: Перевод достижений в датапаке Vanilla with Sprinkles (v7.2). Ссылка на [датапак](https://www.curseforge.com/minecraft/customization/vanilla-with-sprinkles)
 
 Установка: Пример для Prism Launcher:
 
